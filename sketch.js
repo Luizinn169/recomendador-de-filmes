@@ -30,7 +30,9 @@ function geraRecomendacao(idade, gostaDeFantasia, gostaDeAventura) {
       return "O menino que descobriu o vento";
     } else {
       if (idade >= 12) {
-        if(gostaDeFantasia || gostaDeAventura) {
+        if(gostaDeFantasia || gostaDeAventura) {	
+criei o style.css
+14 minutes ago
           return "Homem aranha: no aranhaverso";          
         } else{
          return "Ladrões de bicicleta";
